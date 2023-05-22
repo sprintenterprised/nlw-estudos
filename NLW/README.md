@@ -1,3 +1,3 @@
-<p align="center">
+<p>
 <img src=".github/14bis.png" alt="Demo pagina" width="100%"/>
 </p>
